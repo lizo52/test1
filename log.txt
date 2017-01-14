@@ -1,0 +1,72 @@
+commit 7db7e05e956fd43783bb4b4939f3c5af94321f73
+Author: jjh <lizo52@hanmail.net>
+Date:   Sat Jan 14 14:51:49 2017 +0900
+
+    b
+
+commit a4c1fc859427b28b3c3521ac3e262932c6d1d827
+Author: jjh <lizo52@hanmail.net>
+Date:   Sat Jan 14 14:47:56 2017 +0900
+
+    b.txt
+
+commit 80047401f400c388308b3ed06215ece92b2dd784
+Author: jjh <lizo52@hanmail.net>
+Date:   Sat Jan 14 14:47:06 2017 +0900
+
+    b
+
+commit 90293051aff6d4efbcea0972f340a1a3457c413a
+Author: jjh <lizo52@hanmail.net>
+Date:   Sat Jan 14 14:39:40 2017 +0900
+
+    2 files without add
+
+commit d110cfc782f5fc5977fe65f93f4edf04b125d7a7
+Author: jjh <lizo52@hanmail.net>
+Date:   Sat Jan 14 14:38:46 2017 +0900
+
+    7add and no add
+
+commit 03aa5f0a07f1ce4bf42e988322cb710c9e63f949
+Author: lizo52 <lizo52@hanmail.net>
+Date:   Sat Jan 14 14:36:23 2017 +0900
+
+    Create git.txt
+
+commit d55119ae0523c8ed8d0a6d5f8bdba62621fcd65a
+Author: jjh <lizo52@hanmail.net>
+Date:   Sat Jan 14 14:34:19 2017 +0900
+
+    7 add
+
+commit f609c75bda60a51771cca3d7a985226ef4eaab06
+Author: jjh <lizo52@hanmail.net>
+Date:   Sat Jan 14 14:30:00 2017 +0900
+
+    6을
+    추가함
+
+commit 2302226eb54f4c61fa55e109f00e033cf284d1d4
+Author: jjh <lizo52@hanmail.net>
+Date:   Sat Jan 14 14:21:40 2017 +0900
+
+    rm and changed
+
+commit 43141f67d2a3be6fef036554d8ea6655dbe5230d
+Author: jjh <lizo52@hanmail.net>
+Date:   Sat Jan 14 14:15:25 2017 +0900
+
+    4 added
+
+commit 0543565aaa3faf62c96ab502317893555ee6668f
+Author: jjh <gwisunim@gwisun-ui-MacBook-Air.local>
+Date:   Sat Jan 14 13:50:24 2017 +0900
+
+    html to txt
+
+commit 511e7afb0bc811d8b95fc43e9c1dc8d85ae5e3ce
+Author: jjh <gwisunim@gwisun-ui-MacBook-Air.local>
+Date:   Sat Jan 14 13:46:14 2017 +0900
+
+    init
