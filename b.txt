@@ -8,5 +8,5 @@ master에서 생성 , 2,3 삭제
 7 - branch1 에서 수정
 8
 9
-10
+10 user2가 수정
 branch1 에서 생성
